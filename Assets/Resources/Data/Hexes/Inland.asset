@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efb5a9d77500ca640afd4562001dfbe5, type: 3}
+  m_Name: Inland
+  m_EditorClassIdentifier: 
+  hexTiles:
+  - {fileID: 8843907601709025258, guid: a2e079ca7c5e1044ca25b74b4f569768, type: 3}
+  - {fileID: 939737094911194676, guid: 3fe0613eaa7e5094dbc0a770242acbf6, type: 3}
+  - {fileID: 3542708397844774083, guid: 38cc2a628b2734a46819560e21c4d5b0, type: 3}
+  weights: 0a0000000500000064000000
+  weightListInitialized: 1
